@@ -1,0 +1,14 @@
+[remap]
+
+importer="VoxelVoxImporter"
+type="PackedScene"
+valid=false
+
+[deps]
+
+source_file="res://source_models/magicavoxel/hbeam.vox"
+[params]
+
+store_colors_in_texture=false
+scale=1.0
+enable_baked_lighting=true
