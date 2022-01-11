@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lbeam.obj-4beed1b418272f93be8c5a85c75d0eb7.mesh"
+
+[deps]
+
+files=[ "res://.import/lbeam.obj-4beed1b418272f93be8c5a85c75d0eb7.mesh" ]
+
+source_file="res://source_models/vox_export/lbeam.obj"
+dest_files=[ "res://.import/lbeam.obj-4beed1b418272f93be8c5a85c75d0eb7.mesh", "res://.import/lbeam.obj-4beed1b418272f93be8c5a85c75d0eb7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

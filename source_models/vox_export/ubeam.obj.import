@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ubeam.obj-07f727a67dfefd7619fbf1795df4404b.mesh"
+
+[deps]
+
+files=[ "res://.import/ubeam.obj-07f727a67dfefd7619fbf1795df4404b.mesh" ]
+
+source_file="res://source_models/vox_export/ubeam.obj"
+dest_files=[ "res://.import/ubeam.obj-07f727a67dfefd7619fbf1795df4404b.mesh", "res://.import/ubeam.obj-07f727a67dfefd7619fbf1795df4404b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
