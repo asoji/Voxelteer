@@ -1,14 +1,16 @@
 [remap]
 
-importer="VoxelVoxImporter"
-type="PackedScene"
-valid=false
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/lbeam.vox-ed8cfcb4f17a2fe06aeca0631bb36f84.mesh"
 
 [deps]
 
 source_file="res://source_models/magicavoxel/lbeam.vox"
+dest_files=[ "res://.import/lbeam.vox-ed8cfcb4f17a2fe06aeca0631bb36f84.mesh" ]
+
 [params]
 
-store_colors_in_texture=false
-scale=1.0
-enable_baked_lighting=true
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false

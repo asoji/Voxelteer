@@ -1,14 +1,16 @@
 [remap]
 
-importer="VoxelVoxImporter"
-type="PackedScene"
-valid=false
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/ubeam.vox-d39ac47ada4026a0796094aca035eed3.mesh"
 
 [deps]
 
 source_file="res://source_models/magicavoxel/ubeam.vox"
+dest_files=[ "res://.import/ubeam.vox-d39ac47ada4026a0796094aca035eed3.mesh" ]
+
 [params]
 
-store_colors_in_texture=false
-scale=1.0
-enable_baked_lighting=true
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false
