@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/tbeam_wide.vox-2b57d94277ecffa6f7175737ec41336c.mesh"
+
+[deps]
+
+source_file="res://source_models/magicavoxel/tbeam_wide.vox"
+dest_files=[ "res://.import/tbeam_wide.vox-2b57d94277ecffa6f7175737ec41336c.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false

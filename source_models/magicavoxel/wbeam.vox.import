@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/wbeam.vox-a96837df6473f6514c64e34825d25233.mesh"
+
+[deps]
+
+source_file="res://source_models/magicavoxel/wbeam.vox"
+dest_files=[ "res://.import/wbeam.vox-a96837df6473f6514c64e34825d25233.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false
