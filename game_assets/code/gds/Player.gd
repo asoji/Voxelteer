@@ -35,6 +35,7 @@ func _unhandled_input(event):
 	if event is InputEventMouseMotion and Input.get_mouse_mode() == Input.MOUSE_MODE_CAPTURED:
 		rotate_y(deg2rad(-event.relative.x * mouseSensitivity))
 		head.rotate_x(deg2rad(-event.relative.y * mouseSensitivity))
+		head.rotation.x = clamp(head.rotation.x, deg2rad(-90), deg2rad(90))
 		
 
 func _process(_delta):
@@ -71,7 +72,7 @@ func _physics_process(delta):
 	apply_gravity(delta)
 	update_snap_vector()
 	jump()
-	# head.rotation.x = clamp(head.rotation.x, deg2rad(-90), deg2rad(90))
+	
 	velocity = move_and_slide_with_snap(velocity, snapVector, Vector3.UP, true, 4, .7853, false)
 	
 	for idx in get_slide_count():
