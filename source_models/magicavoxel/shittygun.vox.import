@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/shittygun.vox-b8b937ae4a98418b4e24833dd8b65ee7.mesh"
+
+[deps]
+
+source_file="res://source_models/magicavoxel/shittygun.vox"
+dest_files=[ "res://.import/shittygun.vox-b8b937ae4a98418b4e24833dd8b65ee7.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false
