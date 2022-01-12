@@ -11,6 +11,7 @@
 - Pick a spot above map, fall, and whever your land when the round starts is where your spawnpoint is
 - Camera tilt being kept
 - Portal gun that works a few times a round and portals only stay open for 5 seconds once both ends open up
+- Potential garrett:tm:
 
 ## xokz
 - Grappling hook
