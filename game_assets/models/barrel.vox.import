@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/barrel.vox-35aaa0b264409ca7c3d9226db1b26f11.mesh"
+
+[deps]
+
+source_file="res://game_assets/models/barrel.vox"
+dest_files=[ "res://.import/barrel.vox-35aaa0b264409ca7c3d9226db1b26f11.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false

@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://game_assets/code/gds/Player_new.gd" type="Script" id=1]
-[ext_resource path="res://source_models/magicavoxel/shittygun.vox" type="ArrayMesh" id=2]
+[ext_resource path="res://game_assets/models/shittygun.vox" type="ArrayMesh" id=2]
 
 [sub_resource type="CapsuleMesh" id=1]
 mid_height = 3.0
