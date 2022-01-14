@@ -14,9 +14,11 @@
 - Potential garrett:tm:
 
 ## xokz
+
 - Grappling hook
 - No surface return
 
 # MrGlockenspiel
+
 - Sliding
 - Procedurally generated map [likely not going to happen because OH GOD NO]
