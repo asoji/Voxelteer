@@ -1,5 +1,7 @@
 # Voxelteer
 
+# Currently on Hiatus as I focus on other things
+
 Voxelteer will *probably* be a voxel-based FPS game.
 
 idk lol
